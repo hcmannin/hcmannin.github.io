@@ -1,2 +1,0 @@
-# hcmannin.github.io
-EduCollage
